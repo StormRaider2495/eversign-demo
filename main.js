@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     eversign.open({
         url: "https://arunitmazumdar.eversign.com/document/3248e2cca71a46db8f1a085d912b5a5d-9a7377ac430e489d8ed0d635fe698e47/sign",
         containerID: "container",
-        width: 600,
+        width: 800,
         height: 600,
         events: {
             loaded: function () {
